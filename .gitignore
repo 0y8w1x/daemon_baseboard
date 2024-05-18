@@ -1,0 +1,12 @@
+*.kicad_prl
+*.kicad_sch-bak
+*.rpt
+*.xls
+*.csv
+*.d356
+*.lck
+*.gbrjob
+/fp-info-cache
+/daemon_baseboard_v2/daemon_baseboard_v2-backups
+/daemon_baseboard_v2/temp
+/daemon_baseboard_v2/fp-info-cache
