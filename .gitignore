@@ -10,6 +10,7 @@
 *.xml
 *.kicad_pcb
 *.kicad_pro
+stackup.png
 /fp-info-cache
 /daemon_baseboard_v2/daemon_baseboard_v2-backups
 /daemon_baseboard_v2/temp
